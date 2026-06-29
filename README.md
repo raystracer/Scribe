@@ -4,4 +4,4 @@
 
 A tool that reads what is on paper and gives it back as data
 
-[Download](https://github.com/raystracer/RaysTracer/releases/tag/latest) |
+[Download](https://github.com/raystracer/Scribe/releases/tag/latest) |
